@@ -20,7 +20,7 @@ Suppose you have been given a data set in which a lot of text is written related
 
 
 ## Contact
-Created by Soma Mukherjee
+Created by Gaurav Dhuri
 
 
 Developed as part of the NLP Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
